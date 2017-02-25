@@ -12,6 +12,7 @@ package ale;
 public class Ale {
 
     /**
+     * Artur sie uczy
      * @param args the command line arguments
      */
     public static void main(String[] args) {
