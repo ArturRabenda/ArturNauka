@@ -10,5 +10,9 @@ package ale;
  * @author Artur
  */
 public class Osoba {
+
+    private int wiek;
+    public Osoba() {
+    }
     
 }
