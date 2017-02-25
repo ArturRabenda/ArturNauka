@@ -14,5 +14,9 @@ public class Osoba {
     private int wiek;
     public Osoba() {
     }
+
+    public int getWiek() {
+        return wiek;
+    }
     
 }

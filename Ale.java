@@ -17,6 +17,7 @@ public class Ale {
     public static void main(String[] args) {
         // TODO code application logic here
         Osoba o = new Osoba();
+        Osoba c = new Osoba();
     }
     
 }
